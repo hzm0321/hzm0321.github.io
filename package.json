@@ -2,6 +2,7 @@
   "private": true,
   "name": "dumi-blog",
   "version": "1.0.0",
+  "homepage":"https://github.com/hzm0321/dumiBlog",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
